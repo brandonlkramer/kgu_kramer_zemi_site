@@ -1,4 +1,4 @@
-# Applied Linguistics Zemi website
+# Kramer Zemi website
 
 Static course site for the 2-year zemi. No build step: plain HTML pages sharing one stylesheet.
 

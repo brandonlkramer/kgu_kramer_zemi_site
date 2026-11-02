@@ -115,6 +115,11 @@ blockquote {
   padding: 10px 14px; margin: 12px 0 16px; font-size: 0.95rem;
 }
 
+/* research log tabs shown as spreadsheet columns */
+table.sheet-cols { min-width: 640px; }
+table.sheet-cols th { white-space: nowrap; }
+table.sheet-cols td { font-size: 0.9rem; }
+
 /* cards on the home page */
 .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 16px; margin: 0 0 24px; }
 .card {
