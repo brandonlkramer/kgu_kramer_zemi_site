@@ -12,7 +12,7 @@ Static course site for the 2-year zemi. No build step: plain HTML pages sharing 
 | `research-log.html` | How to set up and fill the Google Sheets research log |
 | `ground-rules.html` | Ground rules (English and Japanese) |
 | `assets/style.css` | Shared styles (light and dark mode, print) |
-| `files/Worksheet_5A.docx` | Downloadable weekly summary sheet |
+| `files/Worksheet_5A.pdf` | Downloadable weekly summary sheet |
 
 ## Hidden pages (kept for future cohorts)
 
@@ -30,7 +30,6 @@ To switch to the full Year 1 version for a new cohort: rename `index-full.html` 
 
 - The navigation bar is repeated at the top of every page. When you add a page, add its link to the `site-nav` block in each file.
 - Milestone ticks on the home page are saved in each student's browser only (localStorage). They are a personal reminder, not a record.
-- The ground rules page still has a placeholder for the contact method: search for `[contact method`.
 
 ## Publishing on GitHub Pages
 
