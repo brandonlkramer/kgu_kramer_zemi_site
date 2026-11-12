@@ -36,6 +36,6 @@ To switch to the full Year 1 version for a new cohort: rename `index-full.html` 
 1. Create a GitHub repository and push this folder to it.
 2. In the repository, open **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, and save.
-4. The site will appear at `https://<your-username>.github.io/<repository-name>/`.
+4. The site will appear at `https://brandonlkramer.github.io/kgu_kramer_zemi_site/`.
 
 Note: hidden pages are not private. Anyone who guesses the file name can open them.
